@@ -159,7 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithub](https://github.com/fahad2221)
+- Your Name - Initial work - [YourGithub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -170,6 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Fahad Mustafa - fahad-2221@hotmail.co.uk
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
 Project Link: [https://github.com/your-username/ecommerce-chatbot](https://github.com/your-username/ecommerce-chatbot)
